@@ -3,4 +3,10 @@ Japanese character optimizer
 
 ## Jaco Assertion
 
-Test Pattern Collection for Jaco.
+Testsets for Jaco.
+
+Set of methods or functions with test and converted string.
+
+* * *
+
+Inspired by [fa](https://github.com/k1LoW/fa)
